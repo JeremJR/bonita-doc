@@ -262,3 +262,5 @@
   * [Use the rich textarea widget in a mail template](rta-mail-template.md)
   * [Manage dates and times in BDM and User Interfaces](datetimes-management-tutorial.md)
   * [Manage BDM in custom Rest APIs](bdm-in-rest-api.md)
+* [Addons](_addons.md)
+  * [Bonita Continuous Delivery](README.md)
