@@ -79,6 +79,7 @@
   const currentDir = process.env.PWD;
 
   convertDirectory(pathToMd, pathToHtml);
+  convertDirectory(pathToMd+'/bcd', pathToHtml+'/bcd');
 
   function convertDirectory(mdPath, htmlPath) {
     winston.info('converting', mdPath, 'to', htmlPath, 'for version', version);
